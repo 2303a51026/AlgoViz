@@ -396,20 +396,7 @@ This project is licensed under the **MIT License**. See LICENSE file for details
 
 ---
 
-## 👨‍💻 Author
-
-**Developed by:** [2303A52012](https://github.com/2303A52012)  
-**Repository:** [github.com/2303A52012/algoviz](https://github.com/2303A52012/algoviz)
-
 ---
-
-## 🔗 Quick Links
-
-- **[Documentation Progress](PROGRESS.md)** - Current status and roadmap
-- **[Live Demo](#)** - (Coming soon)
-- **[Issue Tracker](https://github.com/2303A52012/algoviz/issues)** - Report bugs
-- **[Pull Requests](https://github.com/2303A52012/algoviz/pulls)** - Contribute
-
 ---
 
 ## 📊 Project Statistics
@@ -433,10 +420,6 @@ This project is licensed under the **MIT License**. See LICENSE file for details
 
 ---
 
-## 📞 Support & Feedback
-
-Have questions or suggestions? 
-- Open an [issue](https://github.com/2303A52012/algoviz/issues) on GitHub
 - Check [PROGRESS.md](PROGRESS.md) for project status
 - Review documented algorithms for learning
 
