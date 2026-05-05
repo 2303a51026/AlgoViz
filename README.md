@@ -84,7 +84,7 @@ All algorithms available in **8 languages**:
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/2303A52012/algoviz.git
+git clone https://github.com/2303A51026/AlgoViz.git
 cd algoviz-v2
 ```
 
@@ -396,7 +396,6 @@ This project is licensed under the **MIT License**. See LICENSE file for details
 
 ---
 
----
 ---
 
 ## 📊 Project Statistics
